@@ -49,9 +49,14 @@ Hedef Kitle
 
 
 
+
 Product Backlog URL 
-Trello
-Sprintbacklog
+
+[Trello](https://trello.com/b/sppVXnfG/flutter21)
+
+[Sprintbacklog](https://onedrive.live.com/view.aspx?resid=D37C1852EF684D5A!124&ithint=file%2cxlsx&authkey=!AG4Npzjnuz7qJLA)
+
+
 Sprint 1 
 
 • Sprint Notları: User Story'ler product backlog'ların içine yazılmıştır. 
@@ -63,8 +68,10 @@ Sprint 1
 Story'ler yapılacak işlere (task'lere) bölünmüştür. Trello da belirtilmiştir. 
 
 • Daily Scrum: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantıları screenshotları pdf olarak paylaşılmıştır. 
-dailyscrum
-• Sprint board update: Sprint board screenshotları:  
+
+[dailyscrum](https://onedrive.live.com/?authkey=%21AI24ZGsgGOePxLc&cid=D37C1852EF684D5A&id=D37C1852EF684D5A%21120&parId=root&o=OneUp)
+
+Sprint board screenshotları:  
 ![trello1](https://user-images.githubusercontent.com/75538595/167277599-0b4ecafb-9c7f-46df-922f-086305ba8572.png)
 ![trello2](https://user-images.githubusercontent.com/75538595/167277600-827228ab-446d-4cc8-871d-dc0b16b3ceee.png)
 ![trello3](https://user-images.githubusercontent.com/75538595/167277602-b8050602-ca18-4730-a243-5d7863b527c6.png)
