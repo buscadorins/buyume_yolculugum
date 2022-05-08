@@ -65,13 +65,12 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Trello da belirtilmi�
 • Daily Scrum: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantıları screenshotları pdf olarak paylaşılmıştır. 
 dailyscrum
 • Sprint board update: Sprint board screenshotları:  
+![trello1](https://user-images.githubusercontent.com/75538595/167277599-0b4ecafb-9c7f-46df-922f-086305ba8572.png)
+![trello2](https://user-images.githubusercontent.com/75538595/167277600-827228ab-446d-4cc8-871d-dc0b16b3ceee.png)
+![trello3](https://user-images.githubusercontent.com/75538595/167277602-b8050602-ca18-4730-a243-5d7863b527c6.png)
 
 
-
-
-
-
-
+![Sprintboard](https://user-images.githubusercontent.com/75538595/167277579-a32ec3a4-61fa-4392-bbb4-7c2a5b8355ac.png)
 
 
 
@@ -99,6 +98,8 @@ dailyscrum
 
 
 
+![products1](https://user-images.githubusercontent.com/75538595/167277585-47509088-ca76-4db8-aa38-6f4bcd8075f6.png)
+![products2](https://user-images.githubusercontent.com/75538595/167277586-b05577e3-6fda-45a6-be0e-0f94e5dbe419.png)
 
 
 
