@@ -129,33 +129,44 @@ Tahmin puanları gözden geçirilmeli. Bebek gelişimi ile ilgili araştırmalar
 
 
   Sprint 2
+  
 • Sprint Notları: User Story'ler product backlog'ların içine yazılmıştır. 
+
 • [backlog2](https://onedrive.live.com/redir?resid=F8B0832CD34C70F7!128&authkey=!AEFHDLDZOBFESGc&ithint=file%2cxlsx)
+
 • Sprint içinde tamamlanması tahmin edilen puan: 76 Puan 
-• Puan tamamlama mantığı : Bayram tatili dolayısıyla ilk sprintin 29 puan olmasına 
-karar verilmişti. 2 ve 3.sprintlerin yaklaşık olarak aynı puanlar olmasına karar 
-verildi. (2.sprint 76 puan, 3.sprint 68 puan)
+
+• Puan tamamlama mantığı : Bayram tatili dolayısıyla ilk sprintin 29 puan olmasına karar verilmişti. 2 ve 3.sprintlerin yaklaşık olarak aynı puanlar olmasına karar verildi. (2.sprint 76 puan, 3.sprint 68 puan)
+
 • Backlog düzeni ve Story seçimleri: 
+
 Story'ler yapılacak işlere (task'lere) bölünmüştür. Trello da belirtilmiştir. 
+
 [trello2](https://trello.com/b/sppVXnfG/flutter21)
-• Daily Scrum: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp 
-üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantıları screenshotları 
-pdf olarak paylaşılmıştır.
-[2.dailyscrum]!(https://onedrive.live.com/?authkey=%21AIo93gh%2DmTvsqUM&cid=D37C1852EF684D5A&id=D37C1852EF684D5A%21147&parId=root&o=OneUp) 
+
+• Daily Scrum: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantıları screenshotları pdf olarak paylaşılmıştır.
+
+[2.dailyscrum](https://onedrive.live.com/?authkey=%21AIo93gh%2DmTvsqUM&cid=D37C1852EF684D5A&id=D37C1852EF684D5A%21147&parId=root&o=OneUp) 
+
 • Sprint board update: Sprint board screenshotları: 
+
 ![2](https://user-images.githubusercontent.com/75538595/169694591-d8e34885-4424-4358-aa6a-a30f679b8068.png)
+
 ![1](https://user-images.githubusercontent.com/75538595/169694592-23d18062-e2b5-48ce-8163-c1a5ec7eb65b.png)
 
 • Ürün Durumu: Ekran görüntüleri: 
+
 ![4](https://user-images.githubusercontent.com/75538595/169694636-75424cd4-69ac-4aa0-816f-4afd92fc8de1.png)
+
 ![3](https://user-images.githubusercontent.com/75538595/169694637-5ab0e56d-4b34-49d6-a0e6-773cdfd6538f.png)
 
 
 
 • Sprint Review: Alınan kararlar
-Uygulamaya eşleştirme oyunu eklenmesine karar verildi. Hedef kitlenin 0-5 yaş arası ebeveynleri 
-olarak değiştirilmesine karar verildi.
+
+Uygulamaya eşleştirme oyunu eklenmesine karar verildi. Hedef kitlenin 0-5 yaş arası ebeveynleri olarak değiştirilmesine karar verildi.
+
 Sprint Review katılımcıları: Tüm takım. 
 • Sprint Retrospective:
-Masal seslendirmelerinin bir an evvel yapılmasına karar verildi. Görsellerin konu başlıklarına 
-uygunluğunun tekrar gözden geçirilmesine karar verildi
+
+Masal seslendirmelerinin bir an evvel yapılmasına karar verildi. Görsellerin konu başlıklarına uygunluğunun tekrar gözden geçirilmesine karar verildi
