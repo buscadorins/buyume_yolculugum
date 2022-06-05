@@ -154,9 +154,12 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Trello da belirtilmi�
 
 ![1](https://user-images.githubusercontent.com/75538595/169694592-23d18062-e2b5-48ce-8163-c1a5ec7eb65b.png)
 
+
 • Ürün Durumu: Ekran görüntüleri: 
 
+
 ![4](https://user-images.githubusercontent.com/75538595/169694636-75424cd4-69ac-4aa0-816f-4afd92fc8de1.png)
+
 
 ![3](https://user-images.githubusercontent.com/75538595/169694637-5ab0e56d-4b34-49d6-a0e6-773cdfd6538f.png)
 
@@ -164,10 +167,14 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Trello da belirtilmi�
 
 • Sprint Review: Alınan kararlar
 
+
 Uygulamaya eşleştirme oyunu eklenmesine karar verildi. Hedef kitlenin 0-5 yaş arası ebeveynleri olarak değiştirilmesine karar verildi.
 
+
 Sprint Review katılımcıları: Tüm takım. 
+
 • Sprint Retrospective:
+
 
 Masal seslendirmelerinin bir an evvel yapılmasına karar verildi. Görsellerin konu başlıklarına uygunluğunun tekrar gözden geçirilmesine karar verildi
 
@@ -175,33 +182,49 @@ Masal seslendirmelerinin bir an evvel yapılmasına karar verildi. Görsellerin 
 
 Sprint 3
 
+
 • Sprint Notları: User Story'ler product backlog'ların içine yazılmıştır. 
+
 [backlog3](https://onedrive.live.com/view.aspx?resid=F8B0832CD34C70F7!135&ithint=file%2cxlsx&authkey=!AKiQSBP6JRRV_dM)
 
+
 • Sprint içinde tamamlanması tahmin edilen puan: 47 Puan 
-• Puan tamamlama mantığı : 2. ve 3.sprintin yaklaşık olarak aynı puanlarda olmasına karar verilmişti 
-fakat 3.sprintten bir görev listeden çıkarılarak 47 puana karar verildi.
+
+• Puan tamamlama mantığı : 2. ve 3.sprintin yaklaşık olarak aynı puanlarda olmasına karar verilmişti fakat 3.sprintten bir görev listeden çıkarılarak 47 puana karar verildi.
+
  Backlog düzeni ve Story seçimleri: 
+ 
 Story'ler yapılacak işlere (task'lere) bölünmüştür. Trello da belirtilmiştir. 
+
 [trello3](https://trello.com/b/sppVXnfG/flutter21)
 
-• Daily Scrum: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden 
-yapılmasına karar verilmiştir. Daily Scrum toplantıları screenshotları pdf olarak paylaşılmıştır.
+
+• Daily Scrum: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantıları screenshotları pdf  olarak paylaşılmıştır.
+
 [dailyscrum3](https://onedrive.live.com/?cid=d37c1852ef684d5a&id=D37C1852EF684D5A%21183&ithint=file%2Cpdf&authkey=%21AKp%2DFsYxxaSC624)
 
+
 • Sprint board update: Sprint board screenshotları:
+
 ![1](https://user-images.githubusercontent.com/75538595/172044332-fda95baf-168a-42cf-a858-a32ecda670b8.png)
+
 ![2](https://user-images.githubusercontent.com/75538595/172044357-146b7f31-5f5d-46a2-87aa-4e3ffc4170b7.png)
 
+
 • Ürün Durumu: Ekran görüntüleri: 
+
 ![3](https://user-images.githubusercontent.com/75538595/172044400-63caea69-827d-4e8d-9574-1c2ec3673e88.png)
+
 ![4](https://user-images.githubusercontent.com/75538595/172044403-056e93d1-eca4-4580-a3e3-eccb7feaeb18.png)
 
 
+
 • Sprint Review: Alınan kararlar
-Uygulamanın görsellerinin değiştirilmesine karar verildi. Uygulama içeriğine daha uygun görseller 
-eklenmesine ve uygulamadaki tüm görsellerin birbiriyle uyumlu olmasına karar verildi.
+
+Uygulamanın görsellerinin değiştirilmesine karar verildi. Uygulama içeriğine daha uygun görseller eklenmesine ve uygulamadaki tüm görsellerin birbiriyle uyumlu olmasına karar verildi.
+
 Sprint Review katılımcıları: Tüm takım. 
+
 • Sprint Retrospective:
 
 Uygulamanın playstore/appstore a yüklenebilmesi için daha fazla çalışılması gerektiğine karar verildi
