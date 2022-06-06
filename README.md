@@ -23,7 +23,7 @@ Takım Elemanları
 
 Ürün İsmi 
 
--BebekBüyüt-
+-Büyüme Yolculuğum-
 
 Ürün Açıklaması 
 
@@ -31,19 +31,20 @@ Uygulamamız ebeveynlere çocuk gelişimi ve sağlığı hakkında benzersiz reh
 
 Ürün Özellikleri 
 
-• Bebeğin aylık olarak duyusal ve fiziksel gelişimi hakkında bilgiler verme 
-• Not defteri özelliği ile bebeğin özel anlarını kaydetme
+• Doğumdan 60.aya kadar çocuğun gelişimi hakkında bilgiler 
+• Bebekler için yemek tarifleri 
 • Aşı takvimi 
 • Bakım tavsiyeleri
-
-
-
-
+  Çocuklar için masallar
+  Uyku sesleri
+  Bebek bakımı hakkında sıkça sorulan sorular 
+  Diş sürme rehberi
+  Oyunlar
 
 
 Hedef Kitle 
 
-• 0-2 yaş arası bebek bakımı ile ilgilenen herkes (anne, baba, nine, dede, bebek bakıcısı vb)
+• 0-5 yaş arası bebek bakımı ile ilgilenen herkes (anne, baba, nine, dede, bebek bakıcısı vb)
 
 
 
